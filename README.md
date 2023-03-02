@@ -23,6 +23,7 @@ Regarding the changes to pieces:
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I then created the general (the Napoleon’s hat) by combining the king's and prince's movement abilities.
 <br/>
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I set the images of the pieces to note take up the full space of the cell when in a purple cell (hence the purple border around the pieces in them) because I want players to know if their piece would transform when killing an opponent’s piece.
 <br/>
 <br/>
